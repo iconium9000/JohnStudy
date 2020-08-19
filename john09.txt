@@ -66,7 +66,10 @@
     He said,
       “I don't know.”
 
-  13 They brought to the Pharisees the man who was formerly blind.
+  13 They brought
+      to the Pharisees
+    the man
+      who was formerly blind.
 
   14 Now it was a Sabbath
     on the day when Jesus made the clay
