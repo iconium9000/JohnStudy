@@ -6,7 +6,7 @@
       2 (although Jesus Himself was not baptizing,
         but His disciples were),
 
-    3He left Judea and went away again into Galilee.
+    3 He left Judea and went away again into Galilee.
     4 And He had to pass through Samaria.
     5 So He came to a city of Samaria called Sychar,
       near the parcel of ground
@@ -32,7 +32,7 @@
     “How is it that You,
       being a Jew,
     ask me for a drink
-    since I am a Samaritan woman?”
+      since I am a Samaritan woman?”
 
     (For Jews have no dealings with Samaritans.)
 
@@ -89,7 +89,7 @@
         is not your husband;
       this you have said truly.”
 
-    19The woman said to Him,
+    19 The woman said to Him,
       “Sir, I perceive that You are a prophet.
       20 Our fathers worshiped
           in this mountain,
